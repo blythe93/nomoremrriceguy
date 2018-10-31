@@ -12,3 +12,20 @@ body {
 h1 {
   font-family: 'Finger Paint';font-size: 22px;
 }
+
+ul.nav li {
+  display: inline-block;
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+
+  ul.nav li a:link {
+  color: white;
+}
+  ul.nav li a:visited {
+  color: white;
+}
