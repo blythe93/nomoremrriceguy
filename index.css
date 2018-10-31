@@ -1,5 +1,5 @@
 header {
-  background: img src=(/rice-background.jpg);
+  background: url('/rice-background.jpg');
 }
 
 header.background-color {
