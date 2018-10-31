@@ -2,7 +2,7 @@ header {
   background: url('https://www.wired.com/images_blogs/wiredscience/2013/09/800px-White_Brown_Red__Wild_rice-660x495.jpg')
 }
 
-header.background {
+header.background-image {
   opacity: 0.6;
 }
 
