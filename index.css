@@ -10,7 +10,8 @@ body {
 }
 
 h1 {
-  font-family: 'Finger Paint';font-size: 22px;
+  font-family: 'Finger Paint';font-size: 70px;
+  text-align: center;
 }
 
 ul.nav li {
