@@ -1,9 +1,9 @@
 img.logo {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   padding: 10px;
 }
 
 h1 {
-  font-family: Amatic
+  font-family: 'Amatic SC';font-size: 22px;
 }
