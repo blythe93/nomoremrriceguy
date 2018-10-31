@@ -9,7 +9,7 @@ header.background-color {
 img.logo {
   height: 100px;
   width: 100px;
-  padding: 10px;
+  padding: 10px 10px 10px 10px;
 }
 
 body {
