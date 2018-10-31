@@ -1,8 +1,10 @@
 header {
   background-color: #006666;
-  background.opacity: 0.6;
 }
 
+header.background{
+  opacity: 0.6;
+}
 
 img.logo {
   height: 100px;
