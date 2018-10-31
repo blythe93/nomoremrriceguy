@@ -1,4 +1,4 @@
-<link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>
+
 img.logo {
   height: 100px;
   width: 100px;
@@ -6,5 +6,9 @@ img.logo {
 }
 
 body {
-  font-family: 'Amatic SC';font-size: 22px;
+  font-family: 'Barrio';font-size: 22px;
+}
+
+h1 {
+  font-family: 'Finger Paint';font-size: 22px;
 }
